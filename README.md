@@ -1,0 +1,1 @@
+This study uses introductory statistical methods to examine whether evangelical identification and political conservatism have increased since 2014, the years leading up to Trump’s first presidential campaign.
