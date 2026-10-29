@@ -2,7 +2,7 @@
 
 This study uses introductory statistical methods to examine whether evangelical identification and political conservatism have increased since 2014, the years leading up to Trump's first presidential campaign.
 
-**[Read the full analysis report](https://mevere31.github.io/INFO-610---Evangelical-Christianity-and-Political-Conservatism/result/analysis_report.html)**
+**[Read the full analysis report](https://mevere31.github.io/INFO-610---Evangelical-Christianity-and-Political-Conservatism/result/analysis_report.html)
 
 ## Data
 
